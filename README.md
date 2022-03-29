@@ -2,6 +2,9 @@
 # Tailwindcss Movie Dashboard Template
 
 A responsive movie dashboard template designed with tailwindcss.
+The dashboard is designed in light and dark theme.
+In order to change theme between light and dark,a switch toggler is put on the menu.
+Alpinejs v3 script is used to make theme toggler dynamic.
 
 
 ## Screenshots
